@@ -210,5 +210,5 @@ except Exception as e:
 
 # Footer
 st.markdown("---")
-st.caption("🎓 Academic Project: Transparent Cryptocurrency Price Forecaster with Explainable AI")
+st.caption("🎓 Academic Project: Transparent Cryptocurrency Price Forecaster with Explainable AI Made By Navanish✨")
 st.caption("⚠️ Disclaimer: This is for educational purposes only. Financial predictions are uncertain and should not be used for investment decisions.")
