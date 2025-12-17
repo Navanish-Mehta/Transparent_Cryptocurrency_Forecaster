@@ -1,0 +1,106 @@
+#################################
+# Python
+#################################
+__pycache__/
+*.py[cod]
+*$py.class
+
+#################################
+# Virtual Environments
+#################################
+venv/
+env/
+ENV/
+.venv/
+venv.bak/
+
+#################################
+# Environment Variables
+#################################
+.env
+.env.*
+*.env
+
+#################################
+# Jupyter / Experiments
+#################################
+.ipynb_checkpoints/
+*.ipynb
+
+#################################
+# Data (Raw & Processed)
+#################################
+data/
+datasets/
+data_raw/
+data_processed/
+
+#################################
+# Trained Models & Artifacts
+#################################
+models/
+checkpoints/
+*.pkl
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.joblib
+*.sav
+*.bin
+
+#################################
+# Logs & Outputs
+#################################
+logs/
+outputs/
+results/
+*.log
+
+#################################
+# Build / Distribution
+#################################
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+#################################
+# Testing / Coverage
+#################################
+.coverage
+.pytest_cache/
+htmlcov/
+
+#################################
+# IDEs & Editors
+#################################
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+#################################
+# OS Generated Files
+#################################
+.DS_Store
+Thumbs.db
+desktop.ini
+
+#################################
+# Streamlit
+#################################
+.streamlit/
+
+#################################
+# Databases
+#################################
+*.sqlite3
+*.db
+
+#################################
+# Misc
+#################################
+.mypy_cache/
+pip-log.txt
+pip-delete-this-directory.txt
